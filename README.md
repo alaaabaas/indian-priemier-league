@@ -13,8 +13,8 @@ the bowling team which score wickets win if they hit the wicket or if the batsma
 
 ## Table of Contents
 <ul>
-<li><a href="#intro">best teams in india (advising on choosing teams for advertisments)</a></li>
-<li><a href="#wrangling">top players in india(advising on choosing players for advertisments)</a></li>
-<li><a href="#eda">factors affecting winning or lossing</a></li>
+<li>best teams in india (advising on choosing teams for advertisments)</li>
+<li>top players in india(advising on choosing players for advertisments)</li>
+<li>factors affecting winning or lossing</li>
 
 </ul>
