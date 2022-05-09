@@ -2,7 +2,7 @@
 finding the best teams and players in india to target for advertisments
 
 
- rules of the game :
+**rules of the game :**
  
  
 the fielding team will put all 11 players in the field while the batting team will put 2 batsmen in the field
@@ -18,3 +18,6 @@ the bowling team which score wickets win if they hit the wicket or if the batsma
 <li>factors affecting winning or lossing</li>
 
 </ul>
+
+#### to run the code install jupiter notebook from anaconda using conda or pip You also need to install the following libraries: pandas,numpy,matplolib 
+#### this dataset is available to download from kaggle 
