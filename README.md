@@ -1,6 +1,5 @@
 # indian-priemier-league
-finding the best teams and players in india to target for advertisments
-
+The goal is to Find the best teams and players in india to target for advertisments
 
 **rules of the game :**
  
